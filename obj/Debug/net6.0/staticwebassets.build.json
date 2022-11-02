@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DHthI3bLBbrv1Mq6za5QE91V5Ylpq1G91pkHh7uCWQ8=",
+  "Source": "CardServiceApi",
+  "BasePath": "_content/CardServiceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
