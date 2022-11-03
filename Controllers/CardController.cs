@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CardServiceApi.Controllers
 {
     [ApiController]
-    [Route("api/[Controller]/[action]")]
+    [Route("api/[Controller]")]
     public class CardController : Controller
     {
         private readonly ICard cards;
